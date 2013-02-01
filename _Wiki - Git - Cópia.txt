@@ -1,0 +1,17 @@
+
+Acessar o branch----
+1- cd /c/xampp/htdocs/foome/ 	--- Acessar diretório
+2- git branch -a 		--- Lista branch´s disponíveis
+
+git ** NUNCA TRABALHAR NO DIRETORIO *MASTER
+
+3- git branch -a		---Lista Branch´s disponiveis
+4- "Cubo2305!"
+5- git checkout task_xxx 	---Acessar o branch
+6- symfony cc 			---Limpar cache 
+7- git fetch --all		---Verifica Branch´s disponiveis
+8- git checkout "task_/mile"	---Acessar Branch
+9- git checkout -b "task_"	---Cria uma task
+
+
+
